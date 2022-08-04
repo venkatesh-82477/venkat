@@ -1,0 +1,229 @@
+body {
+    margin: 0px;
+}
+.store {
+    background-color: grey;
+    width: 100%;
+    height:265vh;
+}
+.head {
+    width: 300px;
+    height: 80px;
+    background-color: white;
+    border: 7px solid red;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: maroon;
+    text-shadow: 1px 1px 1px red;
+    box-shadow: 6px  6px rebeccapurple;
+    align-content: center;
+    position: relative;
+    left: 370px;
+    top: 10px;
+}
+.float {
+    width: 98%;
+    height: 500px;
+    border: 8px solid green;
+}
+.float1 {
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 7px solid red;
+    border-radius: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 18px;
+    padding-top: 20px;
+    color: darkmagenta;
+    text-shadow: 1px 2px 2px blueviolet;
+    box-shadow: 8px  8px rebeccapurple;
+    float: left;
+    clear: left;
+    position: relative;
+    left: 20px;
+    top: 10px;
+    
+}
+.float2 {
+    width: 180px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    border: 7px solid red;
+    font-style: oblique;
+    box-shadow: 8px  8px rebeccapurple;
+    float: right;
+    clear: right;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+.float3 {
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    border: 7px solid red;
+    font-style: oblique;
+    border-radius: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    padding-top: 20px;
+    color: darkmagenta;
+    text-shadow: 1px 2px 2px blueviolet;
+    box-shadow: 8px  8px rebeccapurple;
+    float: left;
+    clear: both;
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+.float4 {
+    width: 180px;
+    height: 200px;
+    background-color: white;
+    border: 7px solid red;
+    border-radius: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: darkmagenta;
+    font-style: oblique;
+    text-shadow: 1px 2px 2px blueviolet;
+    float: right;
+    clear: right;
+    position: relative;
+    top: 60px;
+    right: 20px;
+    box-shadow: 8px  8px rebeccapurple;
+}
+.p1 {
+    font-size: 19px;
+}
+.p2 {
+    font-size: 14px;
+}
+.p3 {
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+}
+.button {
+    position: relative;
+    background-color: rgb(253, 44, 44);
+    border: none;
+    box-shadow: 1px 1px 1px red;
+    border-radius: 8px;
+    bottom: 20px;
+    width: 90px;
+}
+.sticky {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(151, 247, 6);
+    border: 7px solid red;
+    color: rgb(133, 4, 4);
+    font-style: oblique;
+    border-radius: 5px;
+    text-align: center;
+    position: sticky;
+    left: 340px;
+    bottom: 150px;
+}
+.sticky1 {
+    font-style: oblique;
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+.sticky2 {
+    font-style: oblique;
+    font-size: 13px;
+    font-weight: bold;
+    position: relative;
+    left: 10px;
+    left: 10px;
+    top: 10px;
+}
+.welcome {
+    width: 600px;
+    height: 570px;
+    background-color: rgb(8, 193, 8);
+    border: 7px solid rgb(138, 1, 138);
+    position: relative;
+    left: 230px;
+}
+.h {
+    text-align: center;
+    font-size: 30px;
+}
+.fruits {
+    width: 295px;
+    height: 240px;
+    font-style: oblique;
+    background-color: rgb(255, 255, 129);
+    float: left;
+    clear: left;
+
+}
+
+.h1 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.p4 {
+    text-align: center;
+    font-style: oblique;
+    padding-top: 10px;
+    font-size: 14px;
+}
+.veg {
+    width: 295px;
+    height: 240px;
+    background-color: rgb(255, 255, 129);
+    float: right;
+    clear:right;
+}
+.h2 {
+    text-align: center;
+    padding-top: 12px;
+    font-size: 20px;
+}
+.p5 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 14px;
+}
+.items {
+    width: 600px;
+    height: 240px;
+    background-color: rgb(255, 255, 129);
+    float: right;
+    clear: left;
+    margin-top: 10px;
+}
+.h3 {
+    text-align: center;
+    font-size: 20px;
+}
+.p6 {
+    text-align: center;
+    font-size: 14px;
+}
+
+
+
