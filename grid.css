@@ -233,6 +233,7 @@ body {
     width:214vh ;
     height: 20px;
     position: relative;
+    bottom:20px;
     background-color: cornflowerblue;
     text-align: center;
     grid-row: 4/5;
