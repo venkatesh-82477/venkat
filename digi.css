@@ -178,9 +178,9 @@ div {
     height: 70px;
     font-size: 20px;
     font-weight: bold;
-    padding-top: 10px;
     color: #3D087B;
     position: relative;
+    top:40px;
     left: 20px;
 }
 .flex2 {
